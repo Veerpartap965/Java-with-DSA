@@ -47,6 +47,15 @@ public class if_else2 {
 //        else {
 //            System.out.println("not positive no");
 //        }
+        // nested if else
+//        if (n>0){
+//            if (n%3==0) {
+//                System.out.println("positive no");
+//            }
+//        }
+//        else {
+//            System.out.println("not positive no");
+//        }
 
         // switch case
         switch (n){
