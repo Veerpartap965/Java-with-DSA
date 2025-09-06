@@ -41,12 +41,12 @@ public class if_else2 {
 //
 //        }
         // positive number or not
-        if (n>0){
-            System.out.println("positive no");
-        }
-        else {
-            System.out.println("not positive no");
-        }
+//        if (n>0){
+//            System.out.println("positive no");
+//        }
+//        else {
+//            System.out.println("not positive no");
+//        }
 
         // switch case
         switch (n){
