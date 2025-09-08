@@ -33,9 +33,9 @@ public class whileloop {
 
         // table
 
-//        for (int i= 0;i<=10;i++){
-//            System.out.println(n+"*"+i+"="+n*i);
-//        }
+        for (int i= 0;i<=10;i++){
+            System.out.println(n+"*"+i+"="+n*i);
+        }
 
 //        ****************    Do while   *******************
             // check numbrr above than 10
@@ -62,8 +62,8 @@ public class whileloop {
 //        char ch ='a';
 //        int x=ch; //  implicit typecsting
 
-        char veer = 'a';
-        int y = (int)veer;  ///exlicit typecasting
+//        char veer = 'a';
+//        int y = (int)veer;  ///exlicit typecasting
 
 
     }
